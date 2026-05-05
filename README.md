@@ -4,13 +4,13 @@
 [![C++](https://img.shields.io/badge/Language-C++-00599C.svg)](https://isocpp.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**TA2CAY  Radar Projesi**, ESP32 mikrodenetleyicisi gücünü kullanarak etrafındaki nesneleri ultrasonik sensör ile tarayan, mesafeyi ölçen ve aynı zamanda ortam sıcaklığı ile nemini takip eden gelişmiş, gerçek zamanlı bir radar projesidir. Sistem, kendine ait bir Wi-Fi ağı oluşturarak tamamen bağımsız çalışır ve modern, taktiksel bir web arayüzü sunar.
+**TA2CAY  Radar Projesi**, ESP32 mikrodenetleyicisi gücünü kullanarak etrafındaki nesneleri ultrasonik sensör ile tarayan, mesafeyi ölçen ve aynı zamanda ortam sıcaklığı ile nemini takip eden gelişmiş, gerçek zamanlı bir radar projesidir. Sistem, kendine ait bir Wi-Fi ağı oluşturarak tamamen bağımsız çalışır ve modern bir web arayüzü sunar.
 
 ---
 
 ## ✨ Özellikler
 
-- **Modern Web Arayüzü (Tactical HUD):** WebSockets kullanılarak gecikmesiz, gerçek zamanlı radar taraması. Cyberpunk/Taktiksel tasarım dili.
+- **Modern Web Arayüzü (HUD):** WebSockets kullanılarak gecikmesiz, gerçek zamanlı radar taraması. Cyberpunk tasarım dili.
 - **Kendi Wi-Fi Ağı & Captive Portal:** Dış internete ihtiyaç duymaz. `ta2cay` ağına bağlandığınızda arayüz cihazınızda otomatik olarak açılır.
 - **Çoklu Sensör Entegrasyonu:** Engel tespiti için HC-SR04, ortam verileri (Sıcaklık ve Nem) için DHT11.
 - **OLED Ekran Desteği:** Radar taraması ve sistem istatistikleri doğrudan cihaz üzerindeki I2C OLED ekrandan da anlık olarak izlenebilir.

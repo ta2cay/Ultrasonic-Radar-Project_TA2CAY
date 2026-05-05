@@ -182,7 +182,7 @@ footer span { color:var(--b); }
   <div class="logo-area">
     <div class="title-box">
       <h1>TA2CAY RADAR</h1>
-      <p>TAKTİK İZLEME SİSTEMİ</p>
+      <p>RADAR PROJESİ</p>
     </div>
   </div>
   <div class="header-right">
