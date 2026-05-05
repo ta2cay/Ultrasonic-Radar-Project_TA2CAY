@@ -1,10 +1,10 @@
-# 📡 TA2CAY Taktik Radar Sistemi
+# 📡 TA2CAY  Radar Projesi
 
 [![ESP32](https://img.shields.io/badge/Board-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![C++](https://img.shields.io/badge/Language-C++-00599C.svg)](https://isocpp.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**TA2CAY Taktik Radar Sistemi**, ESP32 mikrodenetleyicisi gücünü kullanarak etrafındaki nesneleri ultrasonik sensör ile tarayan, mesafeyi ölçen ve aynı zamanda ortam sıcaklığı ile nemini takip eden gelişmiş, gerçek zamanlı bir radar projesidir. Sistem, kendine ait bir Wi-Fi ağı oluşturarak tamamen bağımsız çalışır ve modern, taktiksel bir web arayüzü sunar.
+**TA2CAY  Radar Projesi**, ESP32 mikrodenetleyicisi gücünü kullanarak etrafındaki nesneleri ultrasonik sensör ile tarayan, mesafeyi ölçen ve aynı zamanda ortam sıcaklığı ile nemini takip eden gelişmiş, gerçek zamanlı bir radar projesidir. Sistem, kendine ait bir Wi-Fi ağı oluşturarak tamamen bağımsız çalışır ve modern, taktiksel bir web arayüzü sunar.
 
 ---
 
@@ -51,7 +51,7 @@ Projeyi hayata geçirmek için aşağıdaki bileşenlere ihtiyacınız vardır:
 1. ESP32'ye güç verdiğinizde cihaz kısa bir kalibrasyon turu yapacak ve kendi ağını oluşturacaktır.
 2. Telefon, tablet veya bilgisayarınızdan Wi-Fi ağlarına girip **`ta2cay`** isimli ağa bağlanın.
    - **Şifre:** `radar1234`
-3. Bağlantı sonrası arayüz otomatik olarak açılacaktır (Captive Portal). Eğer açılmazsa tarayıcınıza **`http://192.168.4.1`** yazarak taktik radar paneline erişebilirsiniz.
+3. Bağlantı sonrası arayüz otomatik olarak açılacaktır . Eğer açılmazsa tarayıcınıza **`http://192.168.4.1`** yazarak  radar paneline erişebilirsiniz.
 4. Sol üstten "Sesi Aktifleştir" butonuna tıklayarak tespit bildirimlerini sesli alabilirsiniz.
 
 ---
