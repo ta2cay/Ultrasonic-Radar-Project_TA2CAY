@@ -18,6 +18,18 @@
 
 ---
 
+## 📸 Proje Görselleri
+
+Aşağıdaki görsellerde projenin tamamlanmış halini, devre bağlantılarını ve ultrasonik sensörün servo motor üzerindeki montajını görebilirsiniz:
+
+<div align="center">
+  <img src="images/radar1.jpg" width="30%" alt="Radar Önden Görünüm">
+  <img src="images/radar2.jpg" width="30%" alt="Radar Devre Bağlantıları">
+  <img src="images/radar3.jpg" width="30%" alt="Radar Genel Görünüm">
+</div>
+
+---
+
 ## 🛠️ Kullanılan Donanımlar
 
 Projeyi hayata geçirmek için aşağıdaki bileşenlere ihtiyacınız vardır:
