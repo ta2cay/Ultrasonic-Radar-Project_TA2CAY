@@ -1,4 +1,4 @@
-// web_ui.cpp — Otomatik olusturuldu
+﻿// web_ui.cpp — Otomatik olusturuldu
 #include "web_ui.h"
 #include <Arduino.h>
 #include <pgmspace.h>
@@ -351,7 +351,6 @@ footer span { color:var(--b); }
 </main>
 
 <footer>
-  <div>ŞEHİT ASTSUBAY SALİM UÇAR ORTAOKULU — ÇAYCUMA</div>
   <div>ESP32 CORE | <span>7/24 SİSTEM AKTİF</span></div>
 </footer>
 
